@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "extra": {
       "eas": {
-        "projectId": "second-"
+        "projectId": "7f8194af-8ab6-4edc-b5bd-6ce56a701e54"
       }
     },
     "android": {
@@ -13,4 +13,3 @@
     }
   }
 }
-
