@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "My App",
-    "slug": "my-app",
+    "name": "Second",
+    "slug": "second",
     "version": "1.0.0",
-    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "second-"
+      }
+    },
     "android": {
-      "package": "com.pasel.myapp"
+      "package": "com.pasel.second"
     }
   }
 }
+
